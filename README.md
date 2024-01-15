@@ -1,6 +1,5 @@
 
 
-```markdown
 # Simple Web Scraper
 
 This is a simple PHP web scraper using Symfony's DomCrawler component. It extracts all links (`<a>` tags) from a specified URL.
